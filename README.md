@@ -1,4 +1,4 @@
-# Training an LLM model using chat with chatgpt using selenium
+# Training an LLM model with chat with chatgpt using selenium
 
 This repository contains code that trains an LLM model using chat interactions with ChatGPT using Selenium and ChromeDriver.
 ChatGPT is a large language model that can engage in conversations and provide responses to user inputs.
