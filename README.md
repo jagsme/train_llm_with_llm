@@ -33,7 +33,7 @@ Before running the code, make sure you have the following installed:
 
 2. Update the `chromedriver_path` variable in the code with the path to your ChromeDriver executable.
 
-3. Run the script `automated_chat.py`.
+3. Run the script `chat_and_train.py`.
 
 4. The code will open a web browser window, interact with ChatGPT on a chat interface, and print the conversation to the console.
 
